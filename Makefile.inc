@@ -1,0 +1,4 @@
+pkglib_LTLIBRARIES += experimental/negative_cache_mgr/negative_cache_mgr.la
+
+experimental_negative_cache_mgr_negative_cache_mgr_la_SOURCES = \
+  experimental/negative_cache_mgr/negative_cache_mgr.cc
